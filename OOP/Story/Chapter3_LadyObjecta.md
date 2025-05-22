@@ -1,4 +1,4 @@
-# 📖 CHAPTER 3 : Lady Objecta
+# 📖 CHAPTER 3 : LADY OBJECTA
 
 ## Story
 

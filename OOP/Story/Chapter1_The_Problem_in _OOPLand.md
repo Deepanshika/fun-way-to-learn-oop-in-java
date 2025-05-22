@@ -1,4 +1,4 @@
-# 📖 CHAPTER 1 : The Problem in OPPLand
+# 📖 CHAPTER 1 : THE PROBLEM IN OPPLand
 
 ## Story 
 

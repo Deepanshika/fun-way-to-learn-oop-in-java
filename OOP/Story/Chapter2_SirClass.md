@@ -1,4 +1,4 @@
-# 📖 CHAPTER 2 : Sir Class
+# 📖 CHAPTER 2 : SIR CLASS
 
 ## Story
 
