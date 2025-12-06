@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Classes & Objects",
+    "summary": "Blueprint and instance explanation",
+    "content": "A Class is a blueprint. Objects are created from the class.",
+    "example": "class Dog { String name; }",
+    "tags": ["class", "object"]
+  },
+  {
+    "id": 2,
+    "title": "Encapsulation",
+    "summary": "Hide internal details",
+    "content": "Encapsulation ensures that data is protected using private fields.",
+    "example": "class Student { private int age; }",
+    "tags": ["encapsulation"]
+  },
+  {
+    "id": 3,
+    "title": "Inheritance",
+    "summary": "Reuse behavior",
+    "content": "Inheritance helps classes acquire behavior from parent classes.",
+    "example": "class Puppy extends Dog {}",
+    "tags": ["inheritance"]
+  }
+]
